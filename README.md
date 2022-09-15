@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Bidascu
+- 🎓 Student in 3rd at the Faculty of Electornics, Telecommunications and Information Technology.
+- 🤹 Open to new challenges, looking for having fun and learning new things.
+- 👀 I’m interested in coding, travelling and working with people in different environments.
+- 🌱 I’m currently learning C++, Python, WebDev.
+- 📫 You can find me on Twitter: https://twitter.com/bidascu77
+- 💼 LinkedIn: https://www.linkedin.com/in/bidascu/
