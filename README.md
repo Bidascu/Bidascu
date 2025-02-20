@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Bidascu
-- 🎓 Student in 3rd at the Faculty of Electornics, Telecommunications and Information Technology.
-- 🤹 Open to new challenges, looking for having fun and learning new things.
-- 👀 I’m interested in coding, travelling and working with people in different environments.
-- 🌱 I’m currently learning C++, Python, WebDev.
-- 📫 You can find me on Twitter: https://twitter.com/bidascu77
-- 💼 LinkedIn: https://www.linkedin.com/in/bidascu/
+👋 Hi, I'm @Bidascu.
+🚀 I'm a technology enthusiast and Software Development Engineer passionate about automotive software and automation.
+🤹 I thrive on new challenges and enjoy working in dynamic, collaborative environments.
+👀 My interests include coding, system integration, and exploring innovative tech solutions.
+🌱 I'm continuously advancing my skills in C++, Python, web development, and automation.
+📫 Connect with me on Twitter: twitter.com/bidascu77
+💼 Find me on LinkedIn: linkedin.com/in/bidascu
